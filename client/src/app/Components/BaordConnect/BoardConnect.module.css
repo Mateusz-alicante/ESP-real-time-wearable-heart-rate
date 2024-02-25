@@ -1,0 +1,25 @@
+.container {
+    background-color: antiquewhite;
+    border-radius: 3em;
+    padding: 2em;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin: 3em;
+}
+
+.connectButton {
+    font-size: 2em;
+    margin: 0.2em;
+    padding: 0.2em;
+    border-radius: 0.5em;
+    background-color: lightblue;
+}
+
+.connectionOptionsContainer {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+}
